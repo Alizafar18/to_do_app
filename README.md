@@ -1,2 +1,1 @@
-# to_do_app
- 
+This is a simple To-Do App built using React and React Router. The app allows users to add, edit, delete, and mark tasks as completed. It utilizes React's state management (useState) and demonstrates how to navigate between different views using React Router.
